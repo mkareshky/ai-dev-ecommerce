@@ -59,8 +59,6 @@ The search engine parses intent (category, price range, rating) and filters the 
 
 ## **Blockchain Integration** ✅
 
-This AI-powered search could integrate with blockchain by using **on-chain user preference storage** so product recommendations persist across different platforms without centralized servers.
-Additionally, we could implement **token-gated pricing**, where only wallet holders of specific tokens see exclusive discounts or products.
-Loyalty points earned from purchases could be managed as **smart contracts**, ensuring transparency and portability between e-commerce ecosystems.
+This AI feature could integrate with blockchain by storing user preferences on-chain for privacy and cross-platform portability. We could also offer token-gated pricing or loyalty points as smart contracts.
 
 ---
